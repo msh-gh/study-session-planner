@@ -1,7 +1,7 @@
 # study-session-planner
 my 1st project at amazon bedrock- amazon partyrock - whisper ai 
 
-**live link : https://partyrock.aws/u/mshvibecoder/QGj9GRMk8/Study-Session-Planner-Pro **
+**live link :** https://partyrock.aws/u/mshvibecoder/QGj9GRMk8/Study-Session-Planner-Pro 
 
 Purpose: To assist learners in organizing study schedules, breaking down topics, and generating personalized study plans.
 
